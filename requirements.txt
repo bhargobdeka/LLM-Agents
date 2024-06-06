@@ -21,3 +21,5 @@ arxiv
 wikipedia
 langgraph
 langchainhub
+boto3
+awscli
